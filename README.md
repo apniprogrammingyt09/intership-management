@@ -15,13 +15,9 @@ This application can also be used for similar purposes such as managing projects
 
 - Login Page
 - Dashboard
-- Programs (CRUD Features)
-- Tasks (CRUD Features)
-- Program Progress Bar
-- User (CRUD Features)
 - Admin Settings
-- Filtering
-- Sorting
+- Add internship
+- veiw internship
   and Many More..
 
 ## Tools
