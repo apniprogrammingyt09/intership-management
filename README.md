@@ -53,20 +53,3 @@ _Login Page_
 
 
 
-
-## How To Run
-
-For preparation, please install a virtual server such as [XAMPP](https://www.apachefriends.org/) on your PC. After that, start Apache and MySQL in XAMPP. When you have done with XAMPP, follow the following steps:
-
-Step 1: Download and extract this project's folder.<br>
-Step 2: Copy the main project folder and padte in xampp/htdocs in your PC.<br>
-Step 3: Open a browser and go to URL "http://localhost/phpmyadmin/".<br>
-Step 4: Click on the databases tab.<br>
-Step 5: Create a database naming "comu_staj" and then click on the import tab.<br>
-Step 6: Click on browse file and select "comu_staj.sql" file which is inside the "database folder.<br>
-Step 7: Click "Go" button.<br>
-Step 9: Open a browser and go to URL "http://localhost/{folder_path}/"<br>
-
-**Admin Access**<br>
-Email: müdür@comu.edu.tr<br>
-Password: müdür<br>
